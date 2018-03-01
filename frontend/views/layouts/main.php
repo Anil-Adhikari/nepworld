@@ -28,10 +28,8 @@ AppAsset::register($this);
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 </head>
-<body>
+<body id="page-top" style="font-size: 16px">
 <?php $this->beginBody() ?>
-
- <body id="page-top">
     <div class="fixed topHeader">
             <div class="wrapper">
                 <div class="sectionLeft fltLeft">
